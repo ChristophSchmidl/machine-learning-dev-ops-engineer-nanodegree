@@ -11,3 +11,4 @@ The course is divided into four parts, namely:
 	- Project: Deploying a ML Model to Cloud Application Platform with FastAPI
 - **ML Model Scoring and Monitoring**
 	- Project: A Dynamic Risk Assessment System
+
