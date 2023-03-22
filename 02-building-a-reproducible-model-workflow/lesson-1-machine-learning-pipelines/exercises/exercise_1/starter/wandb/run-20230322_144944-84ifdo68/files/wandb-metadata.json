@@ -1,0 +1,45 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-03-22T13:49:45.386273",
+    "startedAt": "2023-03-22T13:49:44.856992",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--artifact_name",
+        "exercise_1/zen_of_python:v1"
+    ],
+    "state": "running",
+    "program": "use_artifact.py",
+    "codePath": "02-building-a-reproducible-model-workflow/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py",
+    "git": {
+        "remote": "git@github.com:ChristophSchmidl/machine-learning-dev-ops-engineer-nanodegree.git",
+        "commit": "18202434934c7bf240d19290d815cab5d3219133"
+    },
+    "email": "christoph.schmidl.1@ru.nl",
+    "root": "/Users/cschmidl/phd/repos/machine-learning-dev-ops-engineer-nanodegree",
+    "host": "ip-145-116-135-130.wlan-int.ru.nl",
+    "username": "cschmidl",
+    "executable": "/Users/cschmidl/anaconda3/envs/udacity-devops/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2000,
+        "min": 2000,
+        "max": 2000
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000,
+            "min": 2000,
+            "max": 2000
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 14.27215576171875
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
